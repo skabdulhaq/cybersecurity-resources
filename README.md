@@ -15,3 +15,8 @@
 <a href='https://www.pwnadventure.com/'>pwnadventure-hackable game</a>
 ### CTF Writups
 <a href='https://youtube.com/playlist?list=PLhixgUqwRTjywPzsTYz28I-qezFOSaUYz'>CTF Writups By LiveOverFlow</a>
+### Hardware Hacking
+[IoT Village](https://www.youtube.com/@IoTVillage/videos)
+[Riscure Embedded Hardware CTF](https://www.youtube.com/playlist?list=PLhixgUqwRTjwNaT40TqIIagv3b4_bfB7M)
+[Hackaday courses](https://hackaday.io/courses)
+[Awesome Hardware and IoT Hacking](https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking#readme)
